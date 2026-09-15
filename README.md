@@ -2,7 +2,7 @@
 
 - 🌱 I am Bohlale Mokoena, A Computer Science student studying at Eduvos (Midrand Campus)
 
-- 🔭 I'm currently working on a Java Library System Console App as an effort to strengthen my development expertise.
+- 🔭 I'm currently working on a research project and a few coding projects to improve my skills :)
 
 - 💬 Ask me about anything really :)
 
